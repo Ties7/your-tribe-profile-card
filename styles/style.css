@@ -12,7 +12,7 @@ body {
   align-items: center;
   height: 100vh;
   font-family: open sans;
-  color: #10214e;
+  color: #050f29;
 }
 
 article {
@@ -41,7 +41,7 @@ header {
 
 h1 {
   margin: 2rem 0 1rem;
-  color: rgba(0,239,255,1);
+  color: rgb(0, 0, 0);
 }
 
 button {
@@ -59,7 +59,7 @@ button {
 }
 button:focus {
   outline: none;
-  background: #202592;
+  background: #a4a6c4;
 }
 button:focus svg {
   stroke: rgba(0,239,255,1);
@@ -69,7 +69,7 @@ svg {
   position: absolute;
   top: calc(1.25rem - 12px);
   left: calc(1.25rem - 12px);
-  stroke: #4e54c8;
+  stroke: #989ac0;
   transition-delay: .25s;
 }
 button svg:nth-of-type(2) {
